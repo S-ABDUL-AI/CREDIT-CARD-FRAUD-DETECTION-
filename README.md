@@ -16,8 +16,6 @@ FILE STRUCTURE
 ├── requirements.txt      # Python dependencies
 └── README.md             # This file
 
-Author
-Author:
-Sherriff Abdul-Hamid
-Email:
-sherriffhamid001@gmail.com
+
+Author:Sherriff Abdul-Hamid
+Email: sherriffhamid001@gmail.com
